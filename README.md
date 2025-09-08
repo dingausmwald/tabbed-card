@@ -1,5 +1,7 @@
 # Tabbed Card
 
+<img width="406" height="84" alt="image" src="https://github.com/user-attachments/assets/4f1ca735-d797-4682-afb9-a7bc6c2433ef" />
+
 A custom card for home assistant that utilizes tabs to segregate individual cards.
 
 ![Tabbed Card](assets/tabbed-card.png)
